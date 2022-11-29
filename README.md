@@ -9,5 +9,7 @@ intersection_social_dqn.ipynb
 Videos for both cases are under videos tab.
 
 highway = high
+
 inersection = inter
+
 values increase as more episodes were ran
